@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rafael.
 
-I'm a Computer Science Student, who aspires to become a full-stack developer, working on JavaScript Stack. I'm also interested in the Artificial Intelligence field. 
+I'm a Brazilian Computer Science Student, who aspires to become a full-stack developer, working on JavaScript Stack. I'm also interested in the Artificial Intelligence field. 
 
 <br>
 <!--**12afaelPereira/12afaelPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
