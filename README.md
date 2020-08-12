@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">I'm a Brazilian Computer Science Student, who aspires to become a full-stack developer, working on JavaScript Stack. I'm also interested in the Artificial Intelligence field.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=12afaelpereira" alt="12afaelpereira" /> </p>
 
 - 🌱 I’m currently learning **JavaScript, React JS**
 
