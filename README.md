@@ -1,12 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Rafael.
 
-<!--
-**12afaelPereira/12afaelPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Student, who aspires to become a full-stack developer, working on JavaScript Stack. I'm also interested in the Artificial Intelligence field. 
 
-api/top-langs?username=12afaelPereira
+<br>
+<!--**12afaelPereira/12afaelPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12afaelPereira&layout=compact)](https://github.com/12afaelPereira/github-readme-stats)
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
