@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Rafael</h1>
+<h1 align="center">Hi 👋🏾, I'm Rafael</h1>
 <h3 align="center">I'm a Brazilian Computer Science Student, who aspires to become a full-stack developer, working on JavaScript Stack. I'm also interested in the Artificial Intelligence field.</h3>
 
 <br>
 
-- 🌱 I’m currently learning **JavaScript, React JS**
+- 🌱 I’m currently learning **Vanilla JS and React JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/12afaelPereira](https://github.com/12afaelPereira)
+- 👨‍💻 All of my projects are available here!
 
-- 📫 How to reach me **rafaelpereira2.0@outlook.com**
+- 📫 How to reach me -> **rafaelpereira2.0@outlook.com**
 
-- ⚡ Fun fact **Chai over Coffe**
+- ⚡ Fun fact: **Water over Coffe**
 
 <br>
 
