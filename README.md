@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vanilla JS and React JS**
 
-- 👨‍💻 All of my projects are available here!
+- 👨‍💻 All of my projects are available here and on codepen.io (please check my Codepen's profile link above)!
 
 - 📫 How to reach me -> **rafaelpereira2.0@outlook.com**
 
